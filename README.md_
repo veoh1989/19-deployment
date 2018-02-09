@@ -3,7 +3,9 @@
 **Author**: Liza Oh
 
 ## Overview
-Basic authorization middleware and signup/signin routes
+TRAVIS CI and HEROKU
+
+[![Build Status](https://travis-ci.org/veoh1989/19-deployment.svg?branch=master)](https://travis-ci.org/veoh1989/19-deployment)
 
 ## Getting Started
 The user must:
